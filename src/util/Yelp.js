@@ -3,11 +3,11 @@ const Yelp = {
 
     search(term,location,sortBy)
     {
-    console.log("entering search");
+   
     return fetch(`https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?term=${term}&location=${location}&sort_by=${sortBy}`,
     {headers:{ Authorization: `Bearer ${apiKey}`}}).then((response) =>
     {
-     console.log(response.ok);
+    //  console.log(response.ok);
      return response.json();
     }
     )
@@ -28,9 +28,9 @@ const Yelp = {
                     city: business.location.city,
                     state: business.location.state,
                     zipcode: business.location.zip_code,
-                    category: business.category,
+                    category: business.categories[0].title,
                     rating: business.rating,
-                    reviewcount: business.reviewCount
+                    reviewcount: business.review_count
                    
                     }
                 }

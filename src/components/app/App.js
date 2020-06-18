@@ -1,3 +1,5 @@
+
+
 import React from 'react';
 import './App.css';
 import BusinessList from '../businessList/BusinessList';
@@ -38,8 +40,7 @@ class App extends React.Component
     
     render()
     {
-        console.log("rendering again");
-        console.log(this.state.business);
+        
         if(!this.state.business)
         {
            this.state.business=[];
