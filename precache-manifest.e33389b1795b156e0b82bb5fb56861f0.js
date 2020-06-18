@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18bbbe104433f34671f3e9d9f5731cac",
+    "revision": "ca9db7d869d6223cf4723ac940a68444",
     "url": "/yummy-app/index.html"
   },
   {
-    "revision": "ba3df413105e421ec03e",
+    "revision": "81f85e2a5ff18fd86708",
     "url": "/yummy-app/static/css/main.5a4b588c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yummy-app/static/js/2.54f42ed2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba3df413105e421ec03e",
-    "url": "/yummy-app/static/js/main.0b4e4b89.chunk.js"
+    "revision": "81f85e2a5ff18fd86708",
+    "url": "/yummy-app/static/js/main.09d1e975.chunk.js"
   },
   {
     "revision": "78a0bcff5c589ef14906",
