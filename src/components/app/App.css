@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+#top-heading
+{
+  color:white;
+  background-color:#FFBF00;
+  text-align: center;
+  font-size:200%;
+  padding:1% 1%;
+  text-transform: uppercase;
+}
