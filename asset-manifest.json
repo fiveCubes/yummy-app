@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yummy-app/static/css/main.5a4b588c.chunk.css",
-    "main.js": "/yummy-app/static/js/main.a24e01ca.chunk.js",
-    "main.js.map": "/yummy-app/static/js/main.a24e01ca.chunk.js.map",
+    "main.js": "/yummy-app/static/js/main.0b4e4b89.chunk.js",
+    "main.js.map": "/yummy-app/static/js/main.0b4e4b89.chunk.js.map",
     "runtime-main.js": "/yummy-app/static/js/runtime-main.4bde6286.js",
     "runtime-main.js.map": "/yummy-app/static/js/runtime-main.4bde6286.js.map",
     "static/js/2.54f42ed2.chunk.js": "/yummy-app/static/js/2.54f42ed2.chunk.js",
     "static/js/2.54f42ed2.chunk.js.map": "/yummy-app/static/js/2.54f42ed2.chunk.js.map",
     "index.html": "/yummy-app/index.html",
-    "precache-manifest.84a9395d93e2d3bd42f52fafcf79cb88.js": "/yummy-app/precache-manifest.84a9395d93e2d3bd42f52fafcf79cb88.js",
+    "precache-manifest.39629a10bd5a4ca4169b8d11c466904e.js": "/yummy-app/precache-manifest.39629a10bd5a4ca4169b8d11c466904e.js",
     "service-worker.js": "/yummy-app/service-worker.js",
     "static/css/main.5a4b588c.chunk.css.map": "/yummy-app/static/css/main.5a4b588c.chunk.css.map",
     "static/js/2.54f42ed2.chunk.js.LICENSE.txt": "/yummy-app/static/js/2.54f42ed2.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4bde6286.js",
     "static/js/2.54f42ed2.chunk.js",
     "static/css/main.5a4b588c.chunk.css",
-    "static/js/main.a24e01ca.chunk.js"
+    "static/js/main.0b4e4b89.chunk.js"
   ]
 }
