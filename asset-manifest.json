@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yummy-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/yummy-app/static/js/main.4e152bca.chunk.js",
+    "main.js.map": "/yummy-app/static/js/main.4e152bca.chunk.js.map",
+    "runtime-main.js": "/yummy-app/static/js/runtime-main.4bde6286.js",
+    "runtime-main.js.map": "/yummy-app/static/js/runtime-main.4bde6286.js.map",
+    "static/js/2.ff4556eb.chunk.js": "/yummy-app/static/js/2.ff4556eb.chunk.js",
+    "static/js/2.ff4556eb.chunk.js.map": "/yummy-app/static/js/2.ff4556eb.chunk.js.map",
+    "index.html": "/yummy-app/index.html",
+    "precache-manifest.403fd66ac18eff277201b68930031ee8.js": "/yummy-app/precache-manifest.403fd66ac18eff277201b68930031ee8.js",
+    "service-worker.js": "/yummy-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/yummy-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ff4556eb.chunk.js.LICENSE.txt": "/yummy-app/static/js/2.ff4556eb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/yummy-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bde6286.js",
+    "static/js/2.ff4556eb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4e152bca.chunk.js"
+  ]
+}
