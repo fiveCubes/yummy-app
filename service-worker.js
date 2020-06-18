@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yummy-app/precache-manifest.403fd66ac18eff277201b68930031ee8.js"
+  "/yummy-app/precache-manifest.a468b73450fbbb1c4af7d8f272f790b7.js"
 );
 
 self.addEventListener('message', (event) => {
