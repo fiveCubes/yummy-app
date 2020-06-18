@@ -37,6 +37,10 @@ class App extends React.Component
 
 
     }
+    componentDidMount()
+    {
+        this.searchYelp("","seatle","best_match");
+    }
     
     render()
     {
